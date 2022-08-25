@@ -1,4 +1,4 @@
-# UnofficialCippRedirect
+# Unofficial Cipp Redirect Azure Function
 I wanted to create an Autotask Livelink to alow my team to jump directly to the users page in the CyberDrain Improved Partner Portal.<br/>
 I changed my process to modify this to use Azure functions so it can be easily integrated into any system.<br/>
 I am using this project to learn Azure Functions, the MS Graph API and Powershell.  I apologise in advance for my terrible powershell script layout.<br/>
