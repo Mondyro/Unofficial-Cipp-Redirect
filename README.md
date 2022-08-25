@@ -39,15 +39,6 @@ CIPPURL: This is the FQDN of your CIPP instance in Azure
 7. The Azure Function will now be ready for use.
 
 
-
-
-Once you create your new Azure function you need to create the following Application Settings under Configuration<br/>
-ApplicationId<br/>
-ApplicationSecret<br/>
-RefreshToken<br/>
-MyTenant<br/>
-CIPPURL: This is the FQDN of your CIPP instance in Azure
-
 #**As an Autotask livelink**
 
 **View the user in CIPP<br/>**
@@ -80,7 +71,7 @@ Configuration: Select the following<br/>
 	-To-Do Grid <br/>
 	
 
-
+#Credits
 I have been reading and learning from the following individuals.  I am in the process of re-writing the powershell scripts as I get a better understanding of how all of this works
 	
 All credit is for the original authors.
