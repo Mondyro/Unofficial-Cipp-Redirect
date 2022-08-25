@@ -65,6 +65,8 @@ I have been reading and learning from the following individuals.  I am in the pr
 	
 All credit is for the original authors.
 
-* Thanks to **Kelvin Tegelaar** for creating his blog https://cyberdrain.com/<br/>
+* Thanks to **Kelvin Tegelaar** for creating his blog https://cyberdrain.com/ and The CyberDrain Improved Partner Portal https://github.com/KelvinTegelaar/CIPP<br/>
 * **Luke Whitelock** and his block specifically the CIPP Hudu intergration. https://mspp.io/hudu-microsoft-365-integration-and-updated-magic-dash-v3/<br/>
 * **Gavin Stone** and his indepth blog post on setting up the Secure Application Model https://www.gavsto.com/secure-application-model-for-the-layman-and-step-by-step/<br/>
+* Thanks to all other developers who are working on CIPP and making it better on a daily basis.
+	
