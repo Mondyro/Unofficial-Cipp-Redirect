@@ -36,7 +36,7 @@ CIPPURL: This is the FQDN of your CIPP instance in Azure
 
 5. Run the Azure Timer UpdateUsers to export your tenancys and users into a csv file.
 6. Once the UpdateUsers Script has completed copy your **cippredirect** url and append &email=<A_Valid_Email_Address>
-7. The script will not be ready for use.
+7. The Azure Function will now be ready for use.
 
 
 
